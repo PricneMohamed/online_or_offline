@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Check Online App",
+  "name": "Check Your internet online or offline",
   "icons": [
     {
       "src": "favicon.ico",
